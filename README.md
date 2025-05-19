@@ -1,6 +1,6 @@
 # **Global Population Dashboard (Power BI)**
 
-An interactive Power BI dashboard built to visualize and analyze global population trends (1960–2023) using World Bank data. This project presents key insights across countries, regions, and economic groups — with a focused lens on India’s demographic growth.
+An interactive Power BI dashboard built to visualize and analyze global population trends using World Bank data. This project presents key insights across countries, regions, and economic groups — with a focused lens on India’s demographic growth.
 
 ---
 
@@ -16,16 +16,15 @@ An interactive Power BI dashboard built to visualize and analyze global populati
 
 * **Name**: Total Population (World Bank Indicator: `SP.POP.TOTL`)
 * **Source**: [The World Bank Open Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
-* **Coverage**: 1960–2023 | 265 Countries/Regions
 
 ## **Key Insights**
 
-* Global Population Growth (1960–2023) across 265 countries
-* Year-wise population trend for India (1994–2023)
+* Global Population Growth across 265 countries
+* Year-wise population trend for India
 * 1960 vs 2023 Population comparison by region
 * India's 2023 population vs target: **+12.65M** ahead of goal
 * Average annual growth rate of India: **1.91%**
-* Top 10 and Least 10 Populated Countries (2023)
+* Top 10 and Least 10 Populated Countries
 * Clean, minimal KPI-driven layout for high-level analysis
 
 ---
