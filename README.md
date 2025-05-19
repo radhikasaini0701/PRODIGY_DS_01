@@ -7,7 +7,7 @@ An interactive Power BI dashboard built to visualize and analyze global populati
 ## **Project Contents**
 
 * `Global Population Dashboard.pbix` – Power BI dashboard file
-* `World Population Data` – Raw dataset from World Bank
+* `World Population Data.csv` – Raw dataset from World Bank
 * `Dashboard.png` – Screenshot preview of the dashboard
 
 ---
